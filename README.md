@@ -10,10 +10,15 @@
 - We are expected to include 4/5 categories.
 - Examples of categories are : Pharmacy,Doctors,Daycare,Schools,Restaurants,Entertainment(movies,game zones),Shopping etc.
 - We should also include the different states the user travels and the type of expenses in each state.
-- We should be able to build the following prototype(Web application) of the system:
- - Design a database
- - Build GUI
- - Dashboard which generates 2/3 graphs 
- - User should be able to view the transaction and update the category if he would like to.
- - Once the transaction is entered into the table, it should be picked up right away into a category by running a script.
- - Simulate and generate the report.
+
+### We should be able to build the following prototype(Web application) of the system:
+    - Design a database
+    - Build GUI
+    - Dashboard which generates 2/3 graphs 
+    - User should be able to view the transaction and update the category if he would like to.
+    - Once the transaction is entered into the table, it should be picked up right away into a category by running a script.
+    - Simulate and generate the report.
+
+
+### Component:
+    - 
