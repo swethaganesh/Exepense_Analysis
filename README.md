@@ -20,5 +20,10 @@
     - Simulate and generate the report.
 
 
-### Component:
-    - 
+### Component (Truc Suggestion):
+    - Back End (Database/Sever): C#, Java
+    - Front End (Gui, Database/Client/Machine Learning): R, Python, JavaScript, HTML
+    - Development Tool?
+
+
+    
