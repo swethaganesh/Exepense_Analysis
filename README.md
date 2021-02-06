@@ -7,9 +7,9 @@
 
 
 - The basic idea of the project is to categorize the credit card expenses based on location, time, date, type of category the expense falls into and display (visualize the data) in the form of charts/graphs. 
-- We are expected to include 4/5 categories.
+- The proposed project is expected to include atleast 4 categories.
 - Examples of categories are : Pharmacy,Doctors,Daycare,Schools,Restaurants,Entertainment(movies,game zones),Shopping etc.
-- We should also include the different states the user travels and the type of expenses in each state.
+- The system should also include different states the user travels and the type of expenses in each state.
 
 ### We should be able to build the following prototype(Web application) of the system:
     - Design a database
